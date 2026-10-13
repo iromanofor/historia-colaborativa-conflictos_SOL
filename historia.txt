@@ -3,3 +3,5 @@ Introducción línea 2 en rama introducción.
 Introducción línea 3 en rama introducción.
 
 Desarrollo añadido por Persona B en la rama desarrollo.
+
+Final añadido por Persona B en rama final-a.
