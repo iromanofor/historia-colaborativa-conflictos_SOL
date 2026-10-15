@@ -1,2 +1,4 @@
 Este el el contenido común para e fichero Apartado5.txt.
 A partir de aquí haré los apartados 4 y 5 de la actividad Historia conjunta.
+
+Final añadido por la persona B (iromanosf) en la rama final-apartado5-b.
