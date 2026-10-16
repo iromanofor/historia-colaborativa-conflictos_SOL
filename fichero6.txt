@@ -1,2 +1,4 @@
 Este el el contenido común para e fichero fichero6.txt.
 A partir de aquí haré los apartados 4 y 5 de la actividad Historia conjunta.
+
+Final añadido por la persona A (iromanofor) en la rama final-fichero6-a.
